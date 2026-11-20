@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Yo!, I'm Taleb</h1>
 
-<!--
-**TheSyBuilder/TheSyBuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/talebalhajji/">
+    <img src="https://socialmediaicon.vercel.app/linkedin"
+         alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://x.com/TheSyBuilder">
+    <img src="https://socialmediaicon.vercel.app/twitter-x"
+         alt="X" width="40" height="40">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+I'm a master's student at Tsinghua University, working on
+AI agents and AI product development.
+<br><br>
+Interested in multi-agent systems, coding agents,
+and their applications across different fields.
+</samp>
